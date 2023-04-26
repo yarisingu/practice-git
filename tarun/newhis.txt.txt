@@ -1,1 +1,7 @@
-hii my name is tarun
+Hii My Name is Tarun
+
+Hear we discuss about git 
+
+
+First download The git software from online and complete the process
+
