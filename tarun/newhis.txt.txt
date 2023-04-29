@@ -1,1 +1,11 @@
-hii my name is tarun
+Hii My Name is Tarun
+
+Hear we discuss about git 
+
+
+First download The git software from online and complete the process
+
+Open you working dir and finish your work after open with git bash or you terminal and sure if you are first time give the command as : git init
+
+The git init command create a local repo for you
+
