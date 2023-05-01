@@ -1,0 +1,14 @@
+# check how many branch present in your repo but atleast one branch present default branch is "master"
+command :- git branch
+
+# create a branch
+command :- git branch -b <new branch name>
+
+
+# Rename The existing branch
+command :- git branch -M <old branch name> <new branch name>
+                (or)
+command :- git branch -M <new branch name>
+
+#change The branch
+command :-  git checkout <branch name>
