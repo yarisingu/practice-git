@@ -1,0 +1,48 @@
+# Introduction:-
+
+1. Git is a version control system that helps developers track changes to their code over time. 
+   It allows developers to work collaboratively on the same codebase, 
+   without worrying about overwriting each other's changes. 
+   With Git, developers can create a copy of the codebase (a "repository") on their own computer, 
+   make changes to the code, 
+   and then share those changes with others by pushing them to a remote repository (e.g. on GitHub or GitLab). 
+   Other developers can then pull those changes into their own copy of the codebase.
+
+
+2. Git uses a branching model to enable developers to work on different features or bug fixes in parallel. 
+   Developers can create a new branch to work on a specific task, 
+   make changes to the code, and then merge the changes back into the main branch when they are ready.
+
+3. Git also allows developers to easily revert to a previous version of the code if necessary, 
+   and to collaborate on code with others who may be in different time zones or locations.
+
+4. Overall, Git is an essential tool for any developer who wants to work on code collaboratively, 
+track changes to their code, and maintain a history of their work.
+
+
+Git - Documentation:- 
+                link:- https://git-scm.com/doc    //Not sure 
+
+
+Git GUI tools:- While Git can be used entirely through the command line, 
+                some developers prefer to use a graphical user interface (GUI) tool. 
+    Here are a few options:
+GitHub Desktop: GitHub Desktop is a free Git GUI tool that provides an easy-to-use interface for managing Git repositories. 
+                You can download GitHub Desktop at https://desktop.github.com/.
+
+Installation process:- 
+        Windows:- Download Git for Windows from the official Git website at https://git-scm.com/download/win.
+
+        macOS:-   Git is already installed on macOS by default. 
+        However, you can download the latest version of Git from the official Git website at https://git-scm.com/download/mac.
+
+        Linux: The installation process for Git on Linux varies depending on the distribution you are using. 
+        You can use your distribution's package manager to install Git. 
+        For example, on Ubuntu or Debian, 
+        you can install Git using the following command:- < sudo apt-get install git >
+
+End:- Once you have installed Git on your system, 
+you can start using it from the command line or by using a Git GUI tool.
+
+Note:- The links and information in this documentation are accurate as of  version1.0, 
+       but may be subject to change in the future. Please check the latest documentation 
